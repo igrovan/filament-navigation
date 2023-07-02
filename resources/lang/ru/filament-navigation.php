@@ -8,13 +8,13 @@ return [
         'name' => 'Название',
         'items' => 'Элементы',
         'handle' => 'Идентификатор',
-        'created_at' => 'Создано в',
-        'updated_at' => 'Изменено в',
+        'created_at' => 'Дата создания',
+        'updated_at' => 'Дата изменения',
     ],
 
     'select-options' => [
         'same-tab' => 'Этой вкладке',
-        'new-tab' => 'Новой вкладке'
+        'new-tab' => 'Новой вкладке',
     ],
 
     'items' => [
